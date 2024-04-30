@@ -1,0 +1,133 @@
+body{
+
+    background-color: whitesmoke;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+    color: white;  
+    font-size: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    display: flex;
+}
+
+li{
+    color: gray;
+    list-style-type: none;
+    margin-left: 25px;
+}
+
+li:hover{
+    color: red;
+    transition: 1s;
+}
+
+h2{
+    text-align-last: center;
+    color: gray;  
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h2:hover{
+    color: red;
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 24;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ 
+.titulo {
+    color: black;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.elemento1{
+    display: flex;
+}
+
+
+#Busca {
+    font-style: italic;
+    color: black;
+    border-style: none;
+    padding: 10px;
+    background-color: rgb(175, 175, 175);
+    border-radius: 10px;
+
+}
+.box1{
+    height: 50px;
+    width: 90px;
+    background-image: url(/assets/Logo.png);
+    background-size: cover;
+
+}
+
+.box2{
+    display: flex;
+    margin-left: 50px;
+    background-color: rgb(175, 175, 175);
+    border-radius: 15px;
+}
+
+.box3{
+
+    margin-left: 50px;
+    border-radius: 15px;
+}
+
+.box4{
+
+    margin-left: 50px;
+    border-radius: 15px;
+}
+
+.box5{
+
+    margin-left: 50px;
+    border-radius: 15px;
+}
+
+.box6{
+
+    margin-left: 50px;
+    border-radius: 15px;
+}
+
+.box7{
+
+    margin-left: 50px;
+    border-radius: 15px;
+}
+
+.box8{
+
+    margin-left: 50px;
+    border-radius: 15px;
+}
+
+.box9{
+
+    margin-left: 50px;
+    border-radius: 15px;
+}
+
+.promos{
+    
+    margin-left: 20px;
+    border-radius: 15px;
+}
